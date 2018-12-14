@@ -1,19 +1,44 @@
 {
-  "posts": [
+  "employees": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "FirstName": "sebastian",
+      "LastName": "Eschweiler",
+      "Position": "junior",
+      "EmpCode": "sebastian@codingthesmartway.com",
+      "Office": "cochin"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "FirstName": "steve",
+      "LastName": "palmer",
+      "EmpCode": "steve@codingthesmartway.com",
+      "Position": "junior",
+      "Office": "cochin"
+    },
+    {
+      "id": 3,
+      "FirstName": "Ann",
+      "LastName": "smith",
+      "EmpCode": "ann@codingthesmartway.com",
+      "Position": "junior",
+      "Office": "cochin"
+    },
+    {
+      "FirstName": "James",
+      "LastName": "Jones",
+      "Position": "Accountant",
+      "EmpCode": "JJ",
+      "Office": "canada",
+      "id": 5
+    },
+    {
+      "FirstName": "sebastian",
+      "LastName": "John",
+      "Position": "junior",
+      "EmpCode": "sebastian@codingthesmartway.com",
+      "Office": "cochin",
+      "id": 6
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
